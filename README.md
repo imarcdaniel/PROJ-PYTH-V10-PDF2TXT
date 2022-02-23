@@ -23,3 +23,5 @@ pdfpath = input("Enter the pdf name file - use backslash when typing in director
 txtpath = input("Enter the name of the desired txt file - use backslash forpath: ")   
 
 ### PS: The output files created will be stored in temp folder in the same directory by default.
+
+3. python pdf2text.py
